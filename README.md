@@ -1,6 +1,7 @@
 # DefaultAppUtils
 
 Set xxx as the Default Application
+批量替换某个App的默认打开方式
 
 ```shell
 Please input App path: /Applications/CodeRunner.app

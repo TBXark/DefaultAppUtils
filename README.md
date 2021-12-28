@@ -3,6 +3,13 @@
 Set xxx as the Default Application
 批量替换某个App的默认打开方式
 
+### Run
+
+```shell
+swift run
+```
+
+
 ```shell
 Please input App path: /Applications/CodeRunner.app
 Replace target app(Y/n): Y
